@@ -1,1 +1,3 @@
-# verilog
+# Some Verilog tests
+
+Practicing Verilog
