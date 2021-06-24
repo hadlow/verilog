@@ -1,4 +1,4 @@
-module aru (
+module alu (
 	input clk,
 	input [2:0] fn,
 	input [31:0] x,
