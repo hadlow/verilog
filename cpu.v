@@ -7,7 +7,8 @@ module alu (
 
 	output reg [31:0] out
 );
-	
+	always @(posedge clk) begin
+	end
 endmodule
 
 module cpu (
