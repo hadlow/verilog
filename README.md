@@ -3,7 +3,7 @@
 Practicing Verilog
 
 
-## A decent guide to using Cocotb (cause it's harder than it should be)
+## A decent guide to using Cocotb (cause it's harder than it should be)
 1. Install miniconda for Python 3
 2. Run `conda create --name cocotb`
 3. Activate the conda environment: `conda activate cocotb`
